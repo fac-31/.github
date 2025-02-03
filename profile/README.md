@@ -2,7 +2,7 @@
 
 ## Team
 
-_Add a link to your profile here_
+[Connor Rowland](https://github.com/FortyTwoFortyTwo)
 
 ### Facilitator
 
