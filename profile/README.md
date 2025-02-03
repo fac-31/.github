@@ -4,6 +4,7 @@
 
 [Connor Rowland](https://github.com/FortyTwoFortyTwo)
 [Red Hellier](https://github.com/RedHellier)
+[Sefi Potashnik](https://github.com/josephpotashnik)
 
 [Christine Lush](https://github.com/chrislush)
 
