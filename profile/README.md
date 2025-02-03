@@ -2,7 +2,7 @@
 
 ## Team
 
-_Add a link to your profile here_
+[Sefi Potashnik](https://github.com/josephpotashnik)
 
 ### Facilitator
 
