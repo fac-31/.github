@@ -11,7 +11,7 @@
 [Anna Veselova](https://github.com/AnyaVeselova)\
 [David Ogden](https://github.com/Oggie112)\
 [Connor Rowland](https://github.com/FortyTwoFortyTwo)\
-[Anna van Wingerden](https://github.com/annavwingerden)\
+[Anna van Wingerden](https://github.com/annavanwingerden)\
 [David Matthai](https://github.com/DNMathEye)\
 [Christine Lush](https://github.com/chrislush)
 
